@@ -1,0 +1,11 @@
+# Ignore data files
+*.csv
+*.zip
+
+# Ignore Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
