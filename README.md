@@ -10,8 +10,10 @@ An AI-powered web application that detects fake news using Machine Learning (Nai
 ## 🛠️ Tech Stack
 - Python, Scikit-Learn, TensorFlow, NLTK, Streamlit
 
-## 📁 Dataset
-Used the Kaggle [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).
+## 📊 Dataset
+The datasets used in this project are too large to be hosted on GitHub. 
+Please download them from Kaggle and place them in the root directory:
+- [Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 ## 🏃 How to Run
 1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/repo-name.git`
